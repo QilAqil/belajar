@@ -1,0 +1,49 @@
+p{
+    color: aqua;
+    font-size: 1rem;
+}
+li{
+    color: brown;
+    display: inline;
+}
+.judul{
+    background-color: yellowgreen;
+}
+#rakamin{
+    background-color: bisque;
+}
+.judul:hover{
+    background-color: aqua;
+}
+table,td{
+    border: 1px solid;
+}
+table{
+    border-collapse: collapse;
+    /* untuk menggabungkan */
+}
+.divp{
+    background-color: brown;
+    padding: 1rem;
+    margin: 2rem;
+}
+.divt{
+    background-color: aliceblue;
+    padding: 1rem;
+    margin: 2rem;
+}
+.submit{
+    padding: 6px 12px ;
+    border-radius: 6px;
+    background-color: #0d6efd;
+    color: white;
+    border: 0;
+    transition: 0.2s all ease;
+    -webkit-transition: 0.2s all ease;
+    -moz-transition: 0.2s all ease;
+    -ms-transition: 0.2s all ease;
+    -o-transition: 0.2s all ease;
+}
+.submit:hover{
+    background: #0b5ed7;
+}
